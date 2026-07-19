@@ -30,11 +30,11 @@ Building custom Minecraft plugins with Java.
 
 ### 🔗 Connect
 
-<a href="https://discord.gg/TUO_LINK">
+<a href="<a href="[https://discord.gg/TUO_LINK](https://discord.gg/6RxHvzYYt)">">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<a href="https://t.me/TUO_LINK">
+<a href="https://t.me/powergioco">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
