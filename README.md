@@ -18,7 +18,7 @@ Building custom Minecraft plugins with Java.
 
 ### 🦑 SquidMC
 
-Minecraft network focused on custom gameplay systems and unique experiences.
+Building a custom Minecraft experience with unique systems, mechanics and gameplay.
 
 </div>
 
@@ -30,6 +30,6 @@ Minecraft network focused on custom gameplay systems and unique experiences.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAlezz&theme=github-dark&hide_border=true&area=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAlezz&theme=github_dark" />
 
 </div>
