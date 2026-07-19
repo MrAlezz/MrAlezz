@@ -4,7 +4,6 @@
 
 ### ☕ Minecraft Plugin Developer
 
-Building custom Minecraft plugins with Java.
 
 <br>
 
