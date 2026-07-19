@@ -14,15 +14,6 @@ Building custom Minecraft plugins with Java.
 
 ---
 
-### Currently
-
-🎮 Minecraft Plugin Developer  
-☕ Java Development  
-⚙️ Paper & Spigot Systems  
-🦑 SquidMC  
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=MrAlezz&style=flat-square&label=Profile+Views" />
