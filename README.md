@@ -12,17 +12,6 @@ Building custom Minecraft plugins with Java.
 
 </div>
 
----
-
-<div align="center">
-
-### 🦑 SquidMC
-
-Creating custom Minecraft systems, mechanics and experiences.
-
-</div>
-
----
 
 <div align="center">
 
