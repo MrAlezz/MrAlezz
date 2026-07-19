@@ -8,7 +8,7 @@ Building custom Minecraft plugins with Java.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,idea,gradle,maven,git,github,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=java,idea,vscode,gradle,maven,git,github,mysql,redis,autocad,ps,py" />
 
 </div>
 
