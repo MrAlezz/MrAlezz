@@ -8,7 +8,17 @@ Building custom Minecraft plugins with Java.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,idea,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=java,idea,gradle,maven,git,github,mysql,redis" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🦑 SquidMC
+
+Minecraft network focused on custom gameplay systems and unique experiences.
 
 </div>
 
