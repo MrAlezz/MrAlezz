@@ -4,10 +4,21 @@
 
 ### ☕ Minecraft Plugin Developer
 
+Building custom Minecraft plugins with Java.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,idea,vscode,gradle,maven,git,github,mysql,redis,autocad,ps,py" />
+<img src="https://skillicons.dev/icons?i=java,idea,gradle,maven,git,github,mysql,redis,vscode,python,autocad,ps" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🦑 SquidMC
+
+Creating custom Minecraft systems, mechanics and experiences.
 
 </div>
 
