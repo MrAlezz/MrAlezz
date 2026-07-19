@@ -1,13 +1,34 @@
----
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MrAlezz&color=blue&style=flat-square&label=Profile+Views" />
+# 👋 Hey, I'm Alex
 
-<br><br>
+### ☕ Minecraft Plugin Developer
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAlezz&theme=github-dark&hide_border=true" />
+Building custom Minecraft plugins with Java.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,idea,gradle,maven,git,github,mysql,redis,docker,linux" />
 
 </div>
 
 ---
+
+### Currently
+
+🎮 Minecraft Plugin Developer  
+☕ Java Development  
+⚙️ Paper & Spigot Systems  
+🦑 SquidMC  
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MrAlezz&style=flat-square&label=Profile+Views" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAlezz&theme=github-dark&hide_border=true&area=true" />
+
+</div>
