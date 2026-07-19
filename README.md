@@ -22,8 +22,3 @@ Building custom Minecraft plugins with Java.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAlezz&theme=github_dark" />
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/MrAlezz/MrAlezz/output/github-contribution-grid-snake.svg" />
-
-</div>
