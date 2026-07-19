@@ -1,34 +1,13 @@
+---
+
 <div align="center">
 
-# 👋 Hey, I'm Alex
-
-### ☕ Minecraft Plugin Developer
-
-Building custom Minecraft plugins with Java.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,idea,gradle,maven,git,github,mysql,redis,docker,linux" />
+<img src="https://komarev.com/ghpvc/?username=MrAlezz&color=blue&style=flat-square&label=Profile+Views" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=paper,spigot,bukkit" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAlezz&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
-
-### About Me
-
-- ☕ Java Developer
-- 🎮 Minecraft Plugin Development
-- ⚙️ Paper / Spigot Systems
-- 🦑 Working on SquidMC
-
----
-
-<div align="center">
-
-Thanks for visiting :)
-
-</div>
