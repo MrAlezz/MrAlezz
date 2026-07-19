@@ -2,9 +2,9 @@
 
 # Hey, I'm Alex 👋
 
-### Front-End Developer
+### Minecraft Plugin Developer
 
-I build modern and responsive websites.
+Building custom Minecraft systems and plugins.
 
 </div>
 
@@ -12,9 +12,10 @@ I build modern and responsive websites.
 
 ### About Me
 
-- 💻 Front-End Developer
-- 🌐 Creating modern web interfaces
-- 🎨 Interested in UI/UX Design
+- ☕ Minecraft Plugin Developer
+- ⚙️ Creating custom plugins with Java
+- 🧩 Working with Paper / Spigot API
+- 🏗️ Building scalable server systems
 - 🚀 Always learning and improving
 
 ---
@@ -22,13 +23,28 @@ I build modern and responsive websites.
 ### Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,idea,gradle,maven,mysql,redis,git,github,docker,linux,bash" />
 </p>
 
 ---
 
-<div align="center">
+### Minecraft Development
 
-Thanks for visiting my profile :)
+```yaml
+Platform:
+  - Paper
+  - Spigot
+  - Bukkit
 
-</div>
+Languages:
+  - Java
+
+Tools:
+  - IntelliJ IDEA
+  - Gradle
+  - Maven
+  - Git
+
+Database:
+  - MySQL
+  - Redis
