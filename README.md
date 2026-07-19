@@ -20,6 +20,10 @@ Building custom Minecraft plugins with Java.
 
 <br><br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=MrAlezz&show_icons=true&theme=github_dark&hide_border=true" />
+
+<br><br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAlezz&theme=github_dark" />
 
 <br><br>
