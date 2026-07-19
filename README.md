@@ -1,28 +1,34 @@
-## 💻 About Me
+<div align="center">
 
-```javascript
-const MrAlezz = {
-    name: "Alex",
-    role: "Front-End Developer",
+# Hey, I'm Alex 👋
 
-    skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "TypeScript",
-        "React"
-    ],
+### Front-End Developer
 
-    interests: [
-        "Web Development",
-        "UI/UX Design",
-        "Modern Interfaces"
-    ],
+I build modern and responsive websites.
 
-    currentProject: "SquidMC"
-};
-```
+</div>
 
-I'm a **Front-End Developer** focused on creating modern, responsive and clean web interfaces.
+---
 
-I enjoy building user experiences, improving my skills and creating projects with attention to design and performance.
+### About Me
+
+- 💻 Front-End Developer
+- 🌐 Creating modern web interfaces
+- 🎨 Interested in UI/UX Design
+- 🚀 Always learning and improving
+
+---
+
+### Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+<div align="center">
+
+Thanks for visiting my profile :)
+
+</div>
