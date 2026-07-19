@@ -16,16 +16,6 @@ Building custom Minecraft plugins with Java.
 
 <div align="center">
 
-### 🦑 SquidMC
-
-Building a custom Minecraft experience with unique systems, mechanics and gameplay.
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=MrAlezz&style=flat-square&label=Profile+Views" />
 
 <br><br>
