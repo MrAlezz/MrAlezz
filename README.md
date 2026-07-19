@@ -16,7 +16,7 @@ Building custom Minecraft plugins with Java.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MrAlezz&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=MrAlezz&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br><br>
 
