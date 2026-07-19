@@ -12,6 +12,7 @@ Building custom Minecraft plugins with Java.
 
 </div>
 
+---
 
 <div align="center">
 
