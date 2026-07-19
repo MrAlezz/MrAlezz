@@ -1,50 +1,31 @@
 <div align="center">
 
-# Hey, I'm Alex 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=MrAlezz&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-### Minecraft Plugin Developer
+# 👋 Hey, I'm Alex
 
-Building custom Minecraft systems and plugins.
+### ☕ Minecraft Plugin Developer
+
+Building custom Minecraft systems with Java.
 
 </div>
 
 ---
 
-### About Me
+## 🧑‍💻 About Me
 
-- ☕ Minecraft Plugin Developer
-- ⚙️ Creating custom plugins with Java
-- 🧩 Working with Paper / Spigot API
-- 🏗️ Building scalable server systems
-- 🚀 Always learning and improving
+```java
+class Developer {
 
----
+    String name = "Alex";
+    String role = "Minecraft Plugin Developer";
 
-### Languages & Tools
+    String[] focus = {
+        "Java Development",
+        "Paper Plugins",
+        "Server Systems",
+        "Minecraft Architecture"
+    };
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,idea,gradle,maven,mysql,redis,git,github,docker,linux,bash" />
-</p>
-
----
-
-### Minecraft Development
-
-```yaml
-Platform:
-  - Paper
-  - Spigot
-  - Bukkit
-
-Languages:
-  - Java
-
-Tools:
-  - IntelliJ IDEA
-  - Gradle
-  - Maven
-  - Git
-
-Database:
-  - MySQL
-  - Redis
+    String project = "SquidMC";
+}
