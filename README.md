@@ -2,8 +2,6 @@
 
 # 👋 Hey, I'm Alex
 
-<br>
-
 ### ☕ Minecraft Plugin Developer
 
 
