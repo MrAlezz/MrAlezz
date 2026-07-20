@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Alex
 
-### ☕ Minecraft Plugin Developer
+### Java Developer • Minecraft Plugin Developer
 
-Building custom Minecraft plugins with Java.
+Building modern Minecraft server software with Java, Paper API and Gradle.
 
 <br>
 
@@ -17,6 +17,7 @@ Building custom Minecraft plugins with Java.
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=MrAlezz&style=for-the-badge&label=PROFILE+VIEWS" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrAlezz&show_icons=true&theme=github_dark&hide_border=true" />
 
 <br><br>
 
