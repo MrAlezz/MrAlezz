@@ -4,7 +4,7 @@
 
 ### Java Developer • Minecraft Plugin Developer
 
-Building custom Minecraft plugins with Java.
+Building modern Minecraft server software with Java, Paper API and Gradle.
 
 <br>
 
