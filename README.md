@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Alex
 
-### ☕ Minecraft Plugin Developer
+### Java Developer • Minecraft Plugin Developer
 
 Building custom Minecraft plugins with Java.
 
