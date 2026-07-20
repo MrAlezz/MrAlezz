@@ -8,7 +8,7 @@ Building modern Minecraft server software with Java, Paper API and Gradle.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,idea,gradle,maven,git,github,mysql,redis,vscode,python,autocad,ps" />
+<img src="https://skillicons.dev/icons?i=java,idea,gradle,maven,git,github,mysql,mongodb,redis,vscode,python,autocad,ps" />
 
 </div>
 
